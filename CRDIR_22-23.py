@@ -2,7 +2,6 @@
 # Jeff Pelz 9/25/22
 ## Example main program to demonstrate assorted functions
 
-
 import CRDIR_basic_funcs as cbf  # All functions are called as cbf.*** [e.g. cbf.select_raw_image(...)]
 
 import os
